@@ -1,3 +1,6 @@
+NOTE: This is a branched copy of github.com/fpinscala/fpinscala. It has notes and modifications in line with my education, but may not reflect the original project.
+~Adam Love
+
 This repository contains exercises, hints, and answers for the book [Functional Programming in Scala](http://manning.com/bjarnason/). Along with the book itself, it's the closest you'll get to having your own private functional programming tutor without actually having one.
 
 Here's how to use this repository:
